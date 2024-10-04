@@ -1,0 +1,2820 @@
+fileFormatVersion: 2
+guid: f2e953b9df1fce64a89dbf3674854358
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hugh-baldwin_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1028
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de065655ccaa77a4f806ddd5baec056d
+      internalID: -1283189091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1028
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b2cf90148eea45ba81bb56b17d121
+      internalID: -1146624535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1028
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0300e24cd6bb4894e8dd2f31a4b8ba58
+      internalID: 208787393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1028
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d2d2973386bf74e8cc0683a85cd5c6
+      internalID: -1132210187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 991
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6b79427db1534eb9a08563ed99663
+      internalID: -1371005655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 991
+        width: 13
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f14aa5483bbba49aa96f41cd59ee1d
+      internalID: 590508997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 991
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b13e8c9ffbd0148bd7dcef57de022c
+      internalID: -207888005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 955
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f963cc2e201be3d4bbb60a125e5351a7
+      internalID: -1842686517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 955
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb3d8848b1239b40b362e3b52d4e1ba
+      internalID: 1176509420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 955
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c973e39d68819ee4e9ba70258506aca8
+      internalID: 1693769108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 955
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e396e5c9e4fc6419b60a0a14765767
+      internalID: -1856506189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 955
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598a1dac1ef8f0c4bbf0fe22c98bbdc9
+      internalID: 1112395283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 905
+        width: 25
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0737b58c2b506a540bb3d2bd752d487a
+      internalID: -1464408843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 905
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a46aae9767a4944e8bd5f67152c42f2
+      internalID: -1009948264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 905
+        width: 35
+        height: 45
+      alignment: 9
+      pivot: {x: 0.71428573, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac621c40aaa4a4c8d5d733677462e7
+      internalID: -1246527586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 905
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.7837838, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9133815ef542f2498ad0747059c8b5c
+      internalID: -297820284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 905
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6818182, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f65d0d26cba544a20e509b35cd6ce
+      internalID: 2126294018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 905
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6363636, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f2ddb70965244894d771df6432899
+      internalID: -20123671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 869
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d32fcd271605b4f97a6749b1ae3b18
+      internalID: -163230218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 869
+        width: 47
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450a41ebf3830b4fa8cd658a099f1db
+      internalID: -1878720147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 869
+        width: 47
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179c722ef5fb29744abf79ff8cbe991d
+      internalID: 1405456654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 869
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68314e804abc53c4d994d7730d7956ca
+      internalID: -466409309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 869
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5c5d79949746e4e849ad00e1c929e8
+      internalID: -86035652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 869
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24348a5ad53c87d45974b30dca748756
+      internalID: 2131104858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 869
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab4e5498be99f849a73d6db3324350f
+      internalID: 526021816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 834
+        width: 25
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17704e283c5990f4abe7c14509e1618b
+      internalID: 2021660220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 829
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564c655b9217a2b46ba936bc2d42f2c1
+      internalID: -640887276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 824
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27f02511c1a8d43ba63c3246a6446c
+      internalID: -762666245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 816
+        width: 21
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5fab9b04bf00e4b9006721b9c23718
+      internalID: -1170363007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 756
+        width: 20
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551ac346671595243b99265a4b4d9aae
+      internalID: -1463011044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 756
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6819f9d52fcb3144daefea6c79e03eaf
+      internalID: 1167670842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 756
+        width: 40
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c013483a89d463f46bbb4e5279cb1e8b
+      internalID: -1309289459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 756
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566bf3a7bb6d0d04e8e9c0499ac3ff84
+      internalID: -459744379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_33
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 756
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8513cda77ac6a34b9a1f5e378d470f6
+      internalID: -802789088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 736
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e9ee15881b0f841a44e9624108fcca
+      internalID: -1731436187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 24
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066b413b4adcec409477ddcc3133a61
+      internalID: -2026814144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 736
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63600edb44f7438438e64a8c2a7df7d4
+      internalID: 1757319519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 736
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f41735e5f72b94eb008f39a1d4b90c
+      internalID: 1201149290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 617
+        width: 16
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778100bf2b0a6054293d9aae35d450a7
+      internalID: 1166029656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 617
+        width: 18
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ebc38276429bb4b83646fe8eb5416c
+      internalID: -705119270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 617
+        width: 66
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de9362c8073c54a9dadbcb41b32ba1
+      internalID: 1123629197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 674
+        width: 96
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629876b59069239428eda01d66f23e25
+      internalID: -690323325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 617
+        width: 11
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ba04b9660b534fabff198fd01754b
+      internalID: 841671896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_43
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 653
+        width: 84
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cddb87b60ace174ea8982c271c20059
+      internalID: -1011620496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 617
+        width: 6
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3dadcde7706ed47a4bdd8bb9a348d4
+      internalID: 1267279601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 617
+        width: 9
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd75fd18afbbce448d9d84a8f2b56d9
+      internalID: 1656722771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 620
+        width: 82
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335761fb5e3853f4188e675bdbb47dee
+      internalID: 1600074610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0255311f9ba784347872fa7f3fe4340d
+      internalID: -1773247063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 564
+        width: 20
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f01a57edbfbb41a09f01fc996c6f0
+      internalID: 1124573488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_52
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 564
+        width: 20
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5e40edd163b246b03ce73364cd5f5
+      internalID: -1323850713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 564
+        width: 20
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b5556f1eaba549b6adf2e45307659
+      internalID: 2130796267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 564
+        width: 20
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76db18c4d0419b4384ebf27050cc14b
+      internalID: 1177774792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 564
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cbb0daaeafe34e8e3c1c39047926b
+      internalID: 1166353824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 564
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268025c0d7057454bad5996a21d3d89d
+      internalID: 15037474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 533
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bac9b2c381e8c49bc9320b4c19fe0e
+      internalID: 1940162954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_58
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 564
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05923da0fb3c2e4bb647dc62d6eb66f
+      internalID: 1104707555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 464
+        width: 26
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4619751f2d7c544854ce00f4714c7a
+      internalID: -376392003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 464
+        width: 24
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c5d0a3286ce234ca88938e93ee45e5
+      internalID: 1557438164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 464
+        width: 23
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb8a9def218de48af2ae75eb950b4a
+      internalID: -60665103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 464
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748036e26bfa8bc448617145b333b558
+      internalID: 34278354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_66
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 464
+        width: 35
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c07db15bc61d945959d44498764920
+      internalID: -969692039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_67
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 492
+        width: 4
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daef1b2faf058048b01d61c0135fa04
+      internalID: -1877925807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_68
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 464
+        width: 14
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9ca44d1614334b8364f1402c2b3ef
+      internalID: -1306821773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 464
+        width: 17
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ac6fe4f7f1974dbc91a5a98f66629
+      internalID: 1929725725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 427
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b1357219816ea4b90e5d82b88cff5a
+      internalID: 133470831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 432
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682595a4a242cc142aea8dc8200f8d41
+      internalID: 2060945340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 433
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd5fdf9767eae4bb3883f1ead5ab65
+      internalID: 1964028590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_73
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 427
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a0ff300dce5d4e9ea151690651e05
+      internalID: -432993933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 390
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d7be0e577d5d4c8291a7dbd911ab8
+      internalID: -1940143587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 390
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1895752d823d24398e95bf9980f18e
+      internalID: -1695578581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 390
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1907dd748c03247a7ef4605e8a4ca5
+      internalID: -1090578043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_77
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 390
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeccef5d57ad7f40a6954e72934e225
+      internalID: -372412861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_78
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 390
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeac98c585848445b310705776bcc80
+      internalID: 1664153855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_79
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 376
+        width: 28
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e055a729efbaf14d8d9783346ee2ae9
+      internalID: 1801825083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 376
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b5934aaf6950b42bbe1002d888da43
+      internalID: -1132253256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_81
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 374
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18de26d78308754ea70388e07827eee
+      internalID: 137212760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_82
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 374
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b366782c87c024a839b67d2f473855
+      internalID: 1778551980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_83
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 353
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1945a7a7ea9194596bf9a8b070a441
+      internalID: -654740633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_84
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 353
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212c7481f69f8942a9f4463d1e76e74
+      internalID: 661189958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 353
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b85cf9fbd7e3fb4180afc8db7026776
+      internalID: 76878357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 353
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35c5f9faf0cbda46bd3dda2d4281a64
+      internalID: -169288091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_87
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 353
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e92c494ca301c4c91076e052bbb2dd
+      internalID: -599026919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 353
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e1168116e35d94c9b05a93c59503fb
+      internalID: 1622886016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_89
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 353
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d82b1b35ee3ba4685f9c855833b14d
+      internalID: -852457517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_90
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 353
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e48b96a6d5d73478bf6da180e6792b
+      internalID: -913174309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 353
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4a0d067d3aeb44a9988973dd3ddc1
+      internalID: -1145683852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_92
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 336
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d67ad71228dea34a864a3f78dd4ee8d
+      internalID: -1123121311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 317
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfbe89b60ec59443bf1d90de634681d
+      internalID: -996780466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_94
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 317
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeeda6ae4e749b48ac3612e5996d2f9
+      internalID: 360123073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 318
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5fcbe709462984fb79932f72ab2d2a
+      internalID: -118829128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_97
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 317
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dfa8c1ac85b924eb64c301637d7f1d
+      internalID: -1728335447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_98
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 281
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e061a007a0684bad872e4e597f95e
+      internalID: -2082378247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_99
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 281
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead2c455b1e43f45b28c69e87374015
+      internalID: -1215177175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_100
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 281
+        width: 30
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f49baf9ff42d64abaf502b8e1165f2
+      internalID: 1612523639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 281
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e2a1c16306fe4fbd41a59ac0405de
+      internalID: -1424399280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_102
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 281
+        width: 28
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad1af1b14f68744ba54fb9bd2b5c48
+      internalID: -1257151900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_103
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 281
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592918dc5f6529343b6d69e0e70c4c96
+      internalID: -1249911291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_104
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 281
+        width: 15
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79b17d3c519797478a9c7792d4748a6
+      internalID: -774636125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_105
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 281
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48262504effde44a92fde70f96e34be
+      internalID: 1097478536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_106
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 243
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51138b4be8190f64eaeb0cc44120daca
+      internalID: -291738355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_107
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 244
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c02e6a9989724081491bfb9c0295e
+      internalID: -166730656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_108
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 244
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8be6233e4b5304491ea047b2516af7
+      internalID: -1490804346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 244
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef21932fd80d9f4a9c3dfc8d813a69f
+      internalID: -575919760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_110
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 244
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d329108c1a6854cb29800107b712a3
+      internalID: -962483468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_111
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 244
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff34a69b8dd7a9944a105596fd6b3245
+      internalID: -872679856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_112
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 206
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb16b1c877144ca47a5efc4e7a9254d9
+      internalID: 12305188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 206
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb66dae61cf9034d9cf62b823001b38
+      internalID: -1639622107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_114
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 206
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe507a3ee7d2484abdcc5fc6358c730
+      internalID: -536574063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_115
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 206
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ab03df2f091e24581a4f2a47d753fc
+      internalID: -2125040698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_116
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 206
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f3f409f0f2a1245a4fb8be468ba8ca
+      internalID: -416263554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_117
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 169
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940cd1b00b406da41aef04b15f4766bb
+      internalID: -875586411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_118
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 169
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d67b0c2914b85a41841eb7f193e17a1
+      internalID: -12298763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_119
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 133
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86875edb6cf529947912fb4fc8a5da4b
+      internalID: -1849265631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_120
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 133
+        width: 13
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144c1be3cee9d245b4879c88677aebb
+      internalID: -481930062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_121
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 134
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a9c7d027aa1e44af191473d1bdfb7
+      internalID: -813952833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_122
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4939a5c76e0d44b9973526f3a0a54
+      internalID: -327509211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 619
+        width: 15
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689d55ef4e4aba2458765e16a2aa3bdb
+      internalID: -1676899631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_48
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 617
+        width: 27
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc1bc73b76f1b4690d4ac67c7e3452
+      internalID: 2135154478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_49
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 620
+        width: 28
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576a72aa5861e0844b1419b187ba0636
+      internalID: -1472575820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 530
+        width: 6
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d228b2e64ac50e4da0817ac856bde2a
+      internalID: -1506900748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_62
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 535
+        width: 5
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478bde18dc138c24181428144f43aa7d
+      internalID: -1703909619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_63
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 529
+        width: 5
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1333858bb141ee4088b889f330ff98a
+      internalID: 937944496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hugh-baldwin_96
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 316
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76774f920822d46bf64294e370a5e5
+      internalID: -1930215289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hugh-baldwin_0: -1283189091
+      hugh-baldwin_1: -1146624535
+      hugh-baldwin_10: -1856506189
+      hugh-baldwin_100: 1612523639
+      hugh-baldwin_101: -1424399280
+      hugh-baldwin_102: -1257151900
+      hugh-baldwin_103: -1249911291
+      hugh-baldwin_104: -774636125
+      hugh-baldwin_105: 1097478536
+      hugh-baldwin_106: -291738355
+      hugh-baldwin_107: -166730656
+      hugh-baldwin_108: -1490804346
+      hugh-baldwin_109: -575919760
+      hugh-baldwin_11: 1112395283
+      hugh-baldwin_110: -962483468
+      hugh-baldwin_111: -872679856
+      hugh-baldwin_112: 12305188
+      hugh-baldwin_113: -1639622107
+      hugh-baldwin_114: -536574063
+      hugh-baldwin_115: -2125040698
+      hugh-baldwin_116: -416263554
+      hugh-baldwin_117: -875586411
+      hugh-baldwin_118: -12298763
+      hugh-baldwin_119: -1849265631
+      hugh-baldwin_12: -1464408843
+      hugh-baldwin_120: -481930062
+      hugh-baldwin_121: -813952833
+      hugh-baldwin_122: -327509211
+      hugh-baldwin_13: -1009948264
+      hugh-baldwin_14: -1246527586
+      hugh-baldwin_15: -297820284
+      hugh-baldwin_16: 2126294018
+      hugh-baldwin_17: -20123671
+      hugh-baldwin_18: -163230218
+      hugh-baldwin_19: -1878720147
+      hugh-baldwin_2: 208787393
+      hugh-baldwin_20: 1405456654
+      hugh-baldwin_21: -466409309
+      hugh-baldwin_22: -86035652
+      hugh-baldwin_23: 2131104858
+      hugh-baldwin_24: 526021816
+      hugh-baldwin_25: 2021660220
+      hugh-baldwin_26: -640887276
+      hugh-baldwin_27: -762666245
+      hugh-baldwin_28: -1170363007
+      hugh-baldwin_29: -1463011044
+      hugh-baldwin_3: -1132210187
+      hugh-baldwin_30: 1167670842
+      hugh-baldwin_31: -1309289459
+      hugh-baldwin_32: -459744379
+      hugh-baldwin_33: -802789088
+      hugh-baldwin_34: -1731436187
+      hugh-baldwin_35: -2026814144
+      hugh-baldwin_36: 1757319519
+      hugh-baldwin_37: 1201149290
+      hugh-baldwin_38: 1166029656
+      hugh-baldwin_39: -705119270
+      hugh-baldwin_4: -1371005655
+      hugh-baldwin_40: 1123629197
+      hugh-baldwin_41: -690323325
+      hugh-baldwin_42: 841671896
+      hugh-baldwin_43: -1011620496
+      hugh-baldwin_44: 1267279601
+      hugh-baldwin_45: 1656722771
+      hugh-baldwin_46: -1676899631
+      hugh-baldwin_47: 1600074610
+      hugh-baldwin_48: 2135154478
+      hugh-baldwin_49: -1472575820
+      hugh-baldwin_5: 590508997
+      hugh-baldwin_50: -1773247063
+      hugh-baldwin_51: 1124573488
+      hugh-baldwin_52: -1323850713
+      hugh-baldwin_53: 2130796267
+      hugh-baldwin_54: 1177774792
+      hugh-baldwin_55: 1166353824
+      hugh-baldwin_56: 15037474
+      hugh-baldwin_57: 1940162954
+      hugh-baldwin_58: 1104707555
+      hugh-baldwin_59: -376392003
+      hugh-baldwin_6: -207888005
+      hugh-baldwin_60: -1506900748
+      hugh-baldwin_61: 1557438164
+      hugh-baldwin_62: -1703909619
+      hugh-baldwin_63: 937944496
+      hugh-baldwin_64: -60665103
+      hugh-baldwin_65: 34278354
+      hugh-baldwin_66: -969692039
+      hugh-baldwin_67: -1877925807
+      hugh-baldwin_68: -1306821773
+      hugh-baldwin_69: 1929725725
+      hugh-baldwin_7: -1842686517
+      hugh-baldwin_70: 133470831
+      hugh-baldwin_71: 2060945340
+      hugh-baldwin_72: 1964028590
+      hugh-baldwin_73: -432993933
+      hugh-baldwin_74: -1940143587
+      hugh-baldwin_75: -1695578581
+      hugh-baldwin_76: -1090578043
+      hugh-baldwin_77: -372412861
+      hugh-baldwin_78: 1664153855
+      hugh-baldwin_79: 1801825083
+      hugh-baldwin_8: 1176509420
+      hugh-baldwin_80: -1132253256
+      hugh-baldwin_81: 137212760
+      hugh-baldwin_82: 1778551980
+      hugh-baldwin_83: -654740633
+      hugh-baldwin_84: 661189958
+      hugh-baldwin_85: 76878357
+      hugh-baldwin_86: -169288091
+      hugh-baldwin_87: -599026919
+      hugh-baldwin_88: 1622886016
+      hugh-baldwin_89: -852457517
+      hugh-baldwin_9: 1693769108
+      hugh-baldwin_90: -913174309
+      hugh-baldwin_91: -1145683852
+      hugh-baldwin_92: -1123121311
+      hugh-baldwin_93: -996780466
+      hugh-baldwin_94: 360123073
+      hugh-baldwin_95: -118829128
+      hugh-baldwin_96: -1930215289
+      hugh-baldwin_97: -1728335447
+      hugh-baldwin_98: -2082378247
+      hugh-baldwin_99: -1215177175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
